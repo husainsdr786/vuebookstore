@@ -20,7 +20,7 @@
 
 ## Installation
 
-- `cd laravel-vue-crud-starter/`
+- `cd vuebookstore/`
 - `composer install`
 - `cp .env.example .env`
 - Update `.env` and set your database credentials
