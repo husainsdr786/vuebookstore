@@ -19,7 +19,7 @@
 - Build with Docker
 
 ## Installation
-
+- `git clone https://github.com/husainsdr786/vuebookstore.git`
 - `cd vuebookstore/`
 - `composer install`
 - `cp .env.example .env`
